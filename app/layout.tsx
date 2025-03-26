@@ -30,10 +30,10 @@ export const metadata: Metadata = {
     description: 'OnRamp and Bridging Forged.',
     images: [
       {
-        url: '/images/apechain-logo.png',
-        width: 800,
-        height: 600,
-        alt: 'ApeChain Logo',
+        url: '/images/ApeForge.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'ApeForge - OnRamp & Bridge',
       },
     ],
   },
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'ApeForge OnRamp & Bridge',
     description: 'OnRamp and Bridging Forged.',
-    images: ['/images/apechain-logo.png'],
+    images: ['/images/ApeForge.jpg'],
   },
 }
 
