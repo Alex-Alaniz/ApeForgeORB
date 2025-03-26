@@ -2,14 +2,14 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'ApeChain | Web3 Development Platform',
-  description: 'ApeChain - The premier Web3 development platform for building and deploying decentralized applications. Secure, scalable, and developer-friendly.',
+  title: 'ApeForge| OnRamp & Bridge',
+  description: 'OnRamp and Bridging Forged',
   manifest: '/manifest.json',
   themeColor: '#000000',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
-    title: 'ApeChain',
+    title: 'ApeForge OnRamp & Bridge',
   },
   viewport: {
     width: 'device-width',
@@ -26,8 +26,8 @@ export const metadata: Metadata = {
     ],
   },
   openGraph: {
-    title: 'ApeChain | Web3 Development Platform',
-    description: 'ApeChain - The premier Web3 development platform for building and deploying decentralized applications. Secure, scalable, and developer-friendly.',
+    title: 'ApeForge OnRamp & Bridge',
+    description: 'OnRamp and Bridging Forged.',
     images: [
       {
         url: '/images/apechain-logo.png',
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ApeChain | Web3 Development Platform',
-    description: 'ApeChain - The premier Web3 development platform for building and deploying decentralized applications. Secure, scalable, and developer-friendly.',
+    title: 'ApeForge OnRamp & Bridge',
+    description: 'OnRamp and Bridging Forged.',
     images: ['/images/apechain-logo.png'],
   },
 }
