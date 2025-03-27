@@ -1,6 +1,7 @@
 import WalletInstructions from "@/components/wallet-instructions"
 import ThirdwebBridge from "@/components/thirdweb-bridge"
 import TypewriterEffect from "@/components/TypewriterEffect"
+import { Footer } from "@/components/Footer"
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
         </div>
         <ThirdwebBridge />
         <WalletInstructions />
+        <Footer />
       </div>
     </main>
   )
